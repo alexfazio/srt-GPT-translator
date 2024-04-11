@@ -27,7 +27,6 @@ To translate an `.srt` file:
 - Make the API key either an environment variable or provide a custom form space for the end user to input their key.
 - Implement context length selector, a toggle or slider that decides how many context words are given to the text. This is the number of segments used to flank the target segments and pass to the LLM for richer context reference during translation. The higher the context segments, the slower the process and more expensive in terms of API call usage, but more precise.
 - Support for bilingual subtitle output.
-- Progress tracking during the translation process.
 
 ## API Documentation
 For more information on using the Anthropic API, refer to the official documentation: https://docs.anthropic.com/claude/page/polyglot-superpowers
