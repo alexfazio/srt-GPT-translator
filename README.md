@@ -1,6 +1,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/alxfazio?style=social)](https://twitter.com/alxfazio) [![Open Main Version In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexfazio/srt-GPT-translator/blob/main/srt_gpt_translator_claude.ipynb)
 
-# srt-GPT-Translator (Google Colab)
+# `.srt` GPT Translator (Google Colab)
 
 This tool is designed to help users translate srt file into a different language using the Antrhopic (Claude 3) API . Does not support bilingual subtitles output.
 
